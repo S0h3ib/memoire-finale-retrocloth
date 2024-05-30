@@ -1,6 +1,8 @@
 # rayatro_cloth2
 
-A new Flutter project.
+mémoire finale 
+ oussama abderrahmane 
+ mekrebi mohamed soheib
 
 ## Getting Started
 
